@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: My Awesome Site
-email:
+title: qt Site
+email: 1411076903@qq.com
 description:
 baseurl: jekyll-resume # the optional subpath of your site, e.g. "/blog"
 url: https:qiu-tang.github.io/jekyll-resume # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

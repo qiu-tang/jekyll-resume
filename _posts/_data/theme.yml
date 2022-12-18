@@ -1,0 +1,56 @@
+# Theme Skin
+skin: default # default, night, plum, sea, soft, steel
+
+# Theme Text
+t:
+  skip_links: "跳转链接Skip links"
+  skip_primary_nav: "转到主导航Skip to primary navigation"
+  skip_content: "转到内容页Skip to content"
+  skip_footer: "转到页脚Skip to footer"
+  menu: "菜单Menu"
+  search: "Search"
+  site_search: "Site Search"
+  results_found: "Result(s) found"
+  search_placeholder_text: "Enter your search term..."
+  home: "主页"
+  newer: "Newer"
+  older: "Older"
+  email: "Email"
+  subscribe: "订阅Subscribe"
+  read_more: "更多内容Read More"
+  posts: "文章Posts"
+  page: "页面Page"
+  of: "of"
+  min_read: "min read"
+  present: "当下Present"
+  cv_awards: "Awards"
+  cv_summary_contact: "Contact"
+  cv_summary_contact_email: "Email"
+  cv_summary_contact_phone: "Phone"
+  cv_summary_contact_website: "Website"
+  cv_location: "Location"
+  cv_education: "Education"
+  cv_education_courses: "Courses"
+  cv_interests: "Interests"
+  cv_languages: "Languages"
+  cv_publications: "Publications"
+  cv_references: "References"
+  cv_skills: "Skills"
+  cv_volunteer: "Volunteer"
+  cv_work: "Work"
+
+# Google Fonts
+google_fonts:
+  - name: "Fira Sans"
+    weights: "400,400i,600,600i"
+
+# Link to specific internal pages in the navigation.
+# Create a custom list to override the default setting of including links to all
+# pages that have a `title`. Add raw page paths in the order you'd like.
+
+navigation_pages:
+  - about.md
+  - 学习笔记.md
+  - 网站设计.md
+  - 页面设计.md
+  - cv.md
